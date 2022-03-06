@@ -165,7 +165,7 @@ void freeMemory(struct Node* head) {
     printf("-");
   }
 
-  printf("\n");
+  printf("\n\n");
 }
 
 void menu(struct Node* head) {
